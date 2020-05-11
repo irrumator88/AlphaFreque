@@ -1,4 +1,6 @@
-cd /work/nimbus/jfiresto/byte-pairs
+#Matlab code to generate images
+
+cd $WORK
 workingMatrix = csvread('quadPairsProgressive.txt');
 top30 = maxk(workingMatrix(:),30)
 minCell = top30(30)
