@@ -11,6 +11,4 @@ This tool is provided as part of a dissertation titled "Application of Software 
 
 Funding for this research has been provided by the National Institute of Justice Grant 2016-R2-CX-0023.
 
-Disclaimer of Warranties and Limitation of Liability
-
 This tool is provided as-is and as-available, with no representations or warranties of any kind.
