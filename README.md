@@ -9,6 +9,6 @@ RAM can be an issue when instantiating the large matrices, and sometimes adjusti
 
 This tool is provided as part of a dissertation titled "Application of Software Engineering Principles to Synthetic Biology and Emerging Regulatory Concerns" with the University of Nebraska-Lincoln. Please cite that dissertation if you use the tool in your research.
 
-Funding for this research has been provided by the National Institute of Justice Grant 2016-R2-CX-0023.
+Funding for this research has been provided by the National Institute of Justice (NIJ) Grant 2016-R2-CX-0023. The views and conclusions of this tool are those of the author and do not necessarily reflect the position or policy of the NIJ.
 
 This tool is provided as-is and as-available, with no representations or warranties of any kind.
